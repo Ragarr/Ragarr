@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hola, soy Raúl Aguilar Arroyo 👋
 
-<!--
-**Ragarr/Ragarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial y el desarrollo web.
 
-Here are some ideas to get you started:
+## Mis habilidades 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programación en Python y C
+- Conocimientos básicos de C# y SQL
+- Uso de librerías gráficas como Pyxel
+- Análisis de datos con Kaggle
+
+## Mis proyectos 🚀
+
+- [CaneriasMariano](https://github.com/Ragarr/CaneriasMariano): Un clon del primer nivel de Mario Bros usando la librería gráfica Pyxel.
+
+## Mis redes sociales 📱
+
+- [LinkedIn](https://www.linkedin.com/in/raùl-aguilar-arroyo-208462221)
+- [Kaggle](https://www.kaggle.com/ragarr)
+- [GitHub](https://github.com/Ragarr)
+
+## Contacto 📧
+
+Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o un mensaje por cualquiera de mis redes sociales. Estaré encantado de hablar contigo.
