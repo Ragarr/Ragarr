@@ -9,7 +9,7 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 - Uso de librerías gráficas como Pyxel
 - Análisis de datos con Kaggle
 
-## Mis proyectos 🚀
+## Mis proyectos destacados 🚀
 
 - [CaneriasMariano](https://github.com/Ragarr/CaneriasMariano): Un clon del primer nivel de Mario Bros usando la librería gráfica Pyxel.
 
