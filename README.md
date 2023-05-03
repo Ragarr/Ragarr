@@ -24,3 +24,12 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 ## Contacto 📧
 
 Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o un mensaje por cualquiera de mis redes sociales. Estaré encantado de hablar contigo.
+
+# Metrics
+
+![Metrics](/github-metrics.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
