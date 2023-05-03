@@ -8,8 +8,10 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 - Conocimientos básicos de C# y SQL
 - Uso de librerías gráficas como Pyxel
 - Análisis de datos con Kaggle
-## Lenguajes mas usados
+## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ragarr&show_icons=true&locale=en&layout=compact" alt="Ragarr" /></p>
+
+![Ragarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent)
 
 ## Mis proyectos destacados 🚀
 
