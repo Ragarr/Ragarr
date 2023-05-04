@@ -26,7 +26,6 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
 ## Mis redes sociales 📱
 
 - [LinkedIn](https://www.linkedin.com/in/raùl-aguilar-arroyo-208462221)
-- [Kaggle](https://www.kaggle.com/ragarr)
 - [GitHub](https://github.com/Ragarr)
 
 ## Contacto 📧
