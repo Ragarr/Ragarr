@@ -16,7 +16,7 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 
 ## Mis proyectos destacados 🚀
 Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3M)
-- [CaneriasMariano]([https://github.com/Ragarr/CaneriasMariano](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/1%C2%BA/Programacion/Proyecto%20-%20Mario%20Bros)): Un clon del primer nivel de Mario Bros usando la librería gráfica Pyxel.
+- [CaneriasMariano](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/1%C2%BA/Programacion/Proyecto%20-%20Mario%20Bros): Un clon del primer nivel de Mario Bros usando la librería gráfica Pyxel.
 - [Termostato y simulador](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/2%C2%BA/Inteligencia%20Artificial/Proyecto): Un simulador de un termostato cuya "inteligencia artificial" sigue un proceso de decision de Markov (MDP).
 - [Practicas de SSOO](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/2%C2%BA/Sistemas%20operativos): son 3 practicas que van profundizando en el uso de C y el funcionamiento de los SSOO y el estandar POSIX. 
   - La 1ª centrada en llamadas al sistema. Son varios programas: mywc=wc, env (busca una variable de sistema), myls = ls.
