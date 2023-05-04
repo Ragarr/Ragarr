@@ -7,7 +7,8 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 - Programación en Python y C
 - Conocimientos básicos de C# y SQL
 - Uso de librerías gráficas como Pyxel
-- Análisis de datos con Kaggle
+- Desarrollo en motores 3D y 2D como Unity
+
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ragarr&show_icons=true&locale=en&layout=compact" alt="Ragarr" /></p>
 
