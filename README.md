@@ -23,11 +23,6 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
   - La 2ª centrada en la gestion de procesos, se implementa un interprete de mandatos (minishell) con todas las funcionalidades: pipes redirecciones y procesos background.
   - La 3ª centrada en threads y concurrencia. Es una implementacion de un problema Productor-Consumidor con N cajeros y M trabajadores de un banco
 
-## Mis redes sociales 📱
-
-- [LinkedIn](https://www.linkedin.com/in/raùl-aguilar-arroyo-208462221)
-- [GitHub](https://github.com/Ragarr)
-
 ## Contacto 📧
 
-Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o un mensaje por cualquiera de mis redes sociales. Estaré encantado de hablar contigo.
+Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com. Estaré encantado de hablar contigo.
