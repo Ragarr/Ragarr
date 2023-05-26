@@ -16,10 +16,12 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
   - Algoritmos evolutivos simples
 
 ## Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ragarr&show_icons=true&locale=en&layout=compact" alt="Ragarr" /></p>
-
-![Ragarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent)
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ragarr&show_icons=true&locale=en&layout=compact" alt="Ragarr" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent" alt="Ragarr"/>
+</p>
 ## Mis proyectos destacados 🚀
 Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3M)
 - [CaneriasMariano](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/1%C2%BA/Programacion/Proyecto%20-%20Mario%20Bros): Un clon del primer nivel de Mario Bros usando la librería gráfica Pyxel.
