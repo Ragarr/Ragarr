@@ -8,6 +8,12 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 - Conocimientos básicos de C# y SQL
 - Uso de librerías gráficas como Pyxel
 - Desarrollo en motores 3D y 2D como Unity
+- Conocimientos basicos de Inteligencia Artificia:
+  - Redes de Markov (MDP, MM, HMM)
+  - Logica Fuzzy
+  - Heuristica 
+  - Redes neuronales simples
+  - Algoritmos evolutivos simples
 
 ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ragarr&show_icons=true&locale=en&layout=compact" alt="Ragarr" /></p>
