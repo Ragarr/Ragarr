@@ -14,9 +14,11 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ragarr&show_icons=true&locale=en&layout=compact" alt="Ragarr" />
 </p>
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ragarr&show_icons=true&theme=transparent" alt="Ragarr"/>
 </p>
+-->
 
 ## Mis proyectos destacados 🚀
 Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3M)
