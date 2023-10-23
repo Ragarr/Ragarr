@@ -3,12 +3,16 @@
 Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial y el desarrollo de videojuegos.
 
 ## Mis habilidades 💻
+# Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,py,css,html,js,git,github,mysql,azure&perline=4" />
+  </a>
+</p>
 
-- Programación en Python y C
-- Conocimientos básicos de C# y SQL
-- Uso de librerías gráficas como Pyxel
-- Desarrollo en motores 3D y 2D como Unity
-- Conocimientos basicos de Inteligencia Artificial
+- RISC-V
+
+- Conceptos basicos de IA
 
 ## Stats
 <p align="center">
