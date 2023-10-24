@@ -1,6 +1,6 @@
 # Hola, soy Raúl Aguilar Arroyo 👋
 
-Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial y el desarrollo de videojuegos.
+Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial y la programación a bajo nivel orientada al rendimiento.
 
 ## Mis habilidades 💻
 # Skills
