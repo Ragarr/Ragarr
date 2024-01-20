@@ -36,7 +36,6 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
   2. centrado en la gestion de procesos, se implementa un interprete de mandatos (minishell) con todas las funcionalidades: pipes redirecciones y procesos background.
   3. centrado en threads y concurrencia. Es una implementacion de un problema Productor-Consumidor con N cajeros y M trabajadores de un banco
 - [Encriptador de Areas de Imagenes - Proyecto de Criptografia](https://github.com/Ragarr/Criptografia_2023-24)
-- 🚧🚧🚧Simulador de Fluidos en C++, programación orientada al rendimiento.🚧🚧🚧 (Para evitar plagio lo publicaré cuando termine la asignatura)
 
 ## Contacto 📧
 
