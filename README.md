@@ -3,7 +3,7 @@
 
 # Hola, soy Raúl Aguilar Arroyo 👋
 
-Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial y la programación a bajo nivel orientada al rendimiento.
+Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial.
 
 ## Mis habilidades 💻
 # Skills
@@ -14,8 +14,8 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 </p>
 
 - RISC-V
-
-- Conceptos basicos de IA
+- Aprendizaje Automatico
+- Programación Web
 
 ## Stats
 <p align="center">
@@ -36,22 +36,12 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
   2. centrado en la gestion de procesos, se implementa un interprete de mandatos (minishell) con todas las funcionalidades: pipes redirecciones y procesos background.
   3. centrado en threads y concurrencia. Es una implementacion de un problema Productor-Consumidor con N cajeros y M trabajadores de un banco
 - [Encriptador de Areas de Imagenes - Proyecto de Criptografia](https://github.com/Ragarr/Criptografia_2023-24)
+- [Inemuri](https://ragarr.github.io/Lab1-Inemuri/) Es una pagina web simple en la que el usuario pueda establecer un destino en un mapa y recibir una notificación cuando se encuentre cerca de esa ubicación.
+- 
 
 ## Contacto 📧
 
 Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com, mandarme un mensaje por twitter: [@raul_agarr](https://twitter.com/raul_agarr) o contactarme por linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). Estaré encantado de hablar contigo.
-
-----------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------
 
@@ -71,8 +61,8 @@ I am a computer engineering student at Universidad Carlos III de Madrid. I am es
 </p>
 
 - RISC-V
-
-- AI basic concepts
+- ML
+- FrontEnd
 
 ## Stats
 <p align="center">
@@ -92,8 +82,8 @@ All can be found in my repository my [UC3M](https://github.com/Ragarr/UC3M) repo
   1. focused on system calls. There are several programs: mywc=wc, env (looks for a system variable), myls = ls.
   2. focused on process management, a command interpreter (minishell) is implemented with all the functionalities: pipes, redirections and background processes.
   3. focused on threads and concurrency. It is an implementation of a Producer-Consumer problem with N cashiers and M workers of a bank.
-- [Image Area Encryptor - Cryptographic Project](https://github.com/Ragarr/Criptografia_2023-24)
-- 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧 Fluid Simulator in C++, performance oriented programming (To avoid plagiarism I will publish it when I finish the course).
+- [Image Area Encrypter - Cryptography Project](https://github.com/Ragarr/Criptografia_2023-24)
+- [Inemuri](https://ragarr.github.io/Lab1-Inemuri/) It is a simple web page in which the user can set a destination on a map and receive a notification when he is near that location.
 
 ## Contact 📧
 
