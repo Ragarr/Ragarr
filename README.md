@@ -37,7 +37,7 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
   3. centrado en threads y concurrencia. Es una implementacion de un problema Productor-Consumidor con N cajeros y M trabajadores de un banco
 - [Encriptador de Areas de Imagenes - Proyecto de Criptografia](https://github.com/Ragarr/Criptografia_2023-24)
 - [Inemuri](https://ragarr.github.io/Lab1-Inemuri/) Es una pagina web simple en la que el usuario pueda establecer un destino en un mapa y recibir una notificación cuando se encuentre cerca de esa ubicación.
-- [Web Restaurante Mexicano](ragarr.github.io/UI-Practica-2/)
+- [Web Restaurante Mexicano](https://ragarr.github.io/UI-Practica-2/)
 
 ## Contacto 📧
 
@@ -84,7 +84,7 @@ All can be found in my repository my [UC3M](https://github.com/Ragarr/UC3M) repo
   3. focused on threads and concurrency. It is an implementation of a Producer-Consumer problem with N cashiers and M workers of a bank.
 - [Image Area Encrypter - Cryptography Project](https://github.com/Ragarr/Criptografia_2023-24)
 - [Inemuri](https://ragarr.github.io/Lab1-Inemuri/) It is a simple web page in which the user can set a destination on a map and receive a notification when he is near that location.
-- [Web Mexican Restaurant](ragarr.github.io/UI-Practica-2/)
+- [Web Mexican Restaurant](https://ragarr.github.io/UI-Practica-2/)
 
 ## Contact 📧
 
