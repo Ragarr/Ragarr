@@ -42,14 +42,11 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
 
 Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o contactarme por linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). Estaré encantado de hablar contigo.
 
-----------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------
-
-
-Here's the translation of the text to English:
+----
 
 ---
+
+
 
 # Hello, I am Raúl Aguilar Arroyo 👋
 
