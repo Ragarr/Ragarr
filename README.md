@@ -9,11 +9,9 @@ Soy estudiante de ingeniería informática en la Universidad Carlos III de Madri
 # Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,py,css,html,js,git,github,mysql,azure&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,py,css,html,js,git,github,mysql,azure,&perline=6" />
   </a>
 </p>
-
-- RISC-V
 - Aprendizaje Automatico
 - Programación Web
 
@@ -36,33 +34,36 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
   2. centrado en la gestion de procesos, se implementa un interprete de mandatos (minishell) con todas las funcionalidades: pipes redirecciones y procesos background.
   3. centrado en threads y concurrencia. Es una implementacion de un problema Productor-Consumidor con N cajeros y M trabajadores de un banco
 - [Encriptador de Areas de Imagenes - Proyecto de Criptografia](https://github.com/Ragarr/Criptografia_2023-24)
-- [Inemuri](https://ragarr.github.io/Lab1-Inemuri/) Es una pagina web simple en la que el usuario pueda establecer un destino en un mapa y recibir una notificación cuando se encuentre cerca de esa ubicación.
-- [Web Restaurante Mexicano](https://ragarr.github.io/UI-Practica-2/)
+- [Proyecto de SSDD, Sistema p2p tipo torrent](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/3%C2%BA/SSDD/Proyecto-SSDD/Proyecto-SSDD-main)
+- [Proyecto de SSIIUU, Aplicacion de compra ubicua en gran superficie](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/3%C2%BA/SSIIUU-Prototipado)
+- [Proyectos Aprendizaje Automatico, predicciones y agrupamiento](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/3%C2%BA/AA)
 
 ## Contacto 📧
 
-Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com, mandarme un mensaje por twitter: [@raul_agarr](https://twitter.com/raul_agarr) o contactarme por linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). Estaré encantado de hablar contigo.
+Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o contactarme por linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). Estaré encantado de hablar contigo.
 
 ----------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------
 
 
-# Hi! Im Raúl Aguilar Arroyo 👋
+Here's the translation of the text to English:
 
-I am a computer engineering student at Universidad Carlos III de Madrid. I am especially interested in artificial intelligence and low-level performance-oriented programming.
+---
+
+# Hello, I am Raúl Aguilar Arroyo 👋
+
+I am a computer engineering student at Carlos III University of Madrid. I am particularly interested in artificial intelligence.
 
 ## My Skills 💻
 # Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,py,css,html,js,git,github,mysql,azure&perline=4" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,linux,py,css,html,js,git,github,mysql,azure,&perline=6" />
   </a>
 </p>
-
-- RISC-V
-- ML
-- FrontEnd
+- Machine Learning
+- Web Programming
 
 ## Stats
 <p align="center">
@@ -74,19 +75,19 @@ I am a computer engineering student at Universidad Carlos III de Madrid. I am es
 </p>
 -->
 
-## My highlighted projects 🚀
-All can be found in my repository my [UC3M](https://github.com/Ragarr/UC3M) repository,
-- [CaneriasMariano](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/1%C2%BA/Programacion/Proyecto%20-%20Mario%20Bros): A clone of the first Mario Bros level using the Pyxel graphics library.
-- [Thermostat and simulator](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/2%C2%BA/Inteligencia%20Artificial/Proyecto): A thermostat simulator whose "artificial intelligence" follows a Markov decision process (MDP).
-- SSOO projects](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/2%C2%BA/Sistemas%20operativos): 3 projects that go deep into the use of C and the operation of SSOOs and the POSIX standard. 
-  1. focused on system calls. There are several programs: mywc=wc, env (looks for a system variable), myls = ls.
-  2. focused on process management, a command interpreter (minishell) is implemented with all the functionalities: pipes, redirections and background processes.
-  3. focused on threads and concurrency. It is an implementation of a Producer-Consumer problem with N cashiers and M workers of a bank.
-- [Image Area Encrypter - Cryptography Project](https://github.com/Ragarr/Criptografia_2023-24)
-- [Inemuri](https://ragarr.github.io/Lab1-Inemuri/) It is a simple web page in which the user can set a destination on a map and receive a notification when he is near that location.
-- [Web Mexican Restaurant](https://ragarr.github.io/UI-Practica-2/)
+## My Highlighted Projects 🚀
+All can be found in my [UC3M](https://github.com/Ragarr/UC3M) repository:
+- [CaneriasMariano](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/1%C2%BA/Programacion/Proyecto%20-%20Mario%20Bros): A clone of the first level of Mario Bros using the Pyxel graphics library.
+- [Thermostat and Simulator](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/2%C2%BA/Inteligencia%20Artificial/Proyecto): A simulator of a thermostat whose "artificial intelligence" follows a Markov decision process (MDP).
+- [Operating Systems Projects](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/2%C2%BA/Sistemas%20operativos): three projects that deepen the use of C and the functioning of operating systems and the POSIX standard.
+  1. focused on system calls. There are several programs: mywc=wc, env (searches for a system variable), myls = ls.
+  2. focused on process management, implementing a command interpreter (minishell) with all functionalities: pipes, redirections, and background processes.
+  3. focused on threads and concurrency. It is an implementation of a Producer-Consumer problem with N cashiers and M bank workers.
+- [Image Area Encryptor - Cryptography Project](https://github.com/Ragarr/Criptografia_2023-24)
+- [SSDD Project, a torrent-type p2p system](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/3%C2%BA/SSDD/Proyecto-SSDD/Proyecto-SSDD-main)
+- [SSIIUU Project, Ubiquitous Shopping Application in a Large Venue](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/3%C2%BA/SSIIUU-Prototipado)
+- [Machine Learning Projects, predictions and clustering](https://github.com/Ragarr/UC3M/tree/main/Proyectos%20y%20practicas/3%C2%BA/AA)
 
 ## Contact 📧
 
-If you want to contact me, you can send me an email to raulagarr@gmail.com, send me a message by twitter: [@raul_agarr](https://twitter.com/raul_agarr) or contact me by linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). I will be happy to talk to you.
-
+If you would like to contact me, you can send me an email at raulagarr@gmail.com or contact me via LinkedIn: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). I will be happy to talk to you.
