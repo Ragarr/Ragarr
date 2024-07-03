@@ -40,7 +40,7 @@ Todos se pueden encontrar en mi repositorio [UC3M](https://github.com/Ragarr/UC3
 
 ## Contacto 📧
 
-Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o contactarme por linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). Estaré encantado de hablar contigo.
+Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr@gmail.com o contactarme por linkedin: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/raul-aguilar-arroyo-208462221/). Estaré encantado de hablar contigo.
 
 ----
 
@@ -87,4 +87,4 @@ All can be found in my [UC3M](https://github.com/Ragarr/UC3M) repository:
 
 ## Contact 📧
 
-If you would like to contact me, you can send me an email at raulagarr@gmail.com or contact me via LinkedIn: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/ra%C3%B9l-aguilar-arroyo-208462221/). I will be happy to talk to you.
+If you would like to contact me, you can send me an email at raulagarr@gmail.com or contact me via LinkedIn: [Raùl Aguilar Arroyo](https://www.linkedin.com/in/raul-aguilar-arroyo-208462221/). I will be happy to talk to you.
