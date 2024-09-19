@@ -3,7 +3,11 @@
 
 # Hola, soy Raúl Aguilar Arroyo 👋
 
-Soy estudiante de ingeniería informática en la Universidad Carlos III de Madrid. Me interesa especialmente la inteligencia artificial.
+Estudiante de último año de Ingeniería Informática, especializado en sistemas distribuidos y algoritmos de IA distribuida. Mi enfoque actual se centra en la programación distribuida de alto rendimiento, optimizando la eficiencia de sistemas complejos y el desarrollo de soluciones innovadoras en el ámbito de la inteligencia artificial y la automatización.
+
+Cuento con experiencia en la implementación de grandes modelos de lenguaje (LLMs), la integración de tecnologías en la nube como Microsoft Azure, y una sólida comprensión de la arquitectura de sistemas y SSDD. Me esfuerzo por maximizar las capacidades del hardware para resolver problemas complejos y crear soluciones escalables.
+
+En mi tiempo libre, contribuyo activamente a proyectos Open Source y desarrollo proyectos personales, lo que me permite seguir explorando nuevas tecnologías.
 
 ## Mis habilidades 💻
 # Skills
