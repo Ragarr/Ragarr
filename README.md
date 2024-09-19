@@ -52,9 +52,13 @@ Si quieres contactar conmigo, puedes enviarme un correo electrónico a raulagarr
 
 
 
-# Hello, I am Raúl Aguilar Arroyo 👋
+# Hello, I'm Raúl Aguilar Arroyo 👋
 
-I am a computer engineering student at Carlos III University of Madrid. I am particularly interested in artificial intelligence.
+Final year student of Computer Engineering, specialized in distributed systems and distributed AI algorithms. My current focus is on high-performance distributed programming, optimizing the efficiency of complex systems and the development of innovative solutions in the field of artificial intelligence and automation.
+
+I have experience in implementing large language models (LLMs), integrating cloud technologies such as Microsoft Azure, and a solid understanding of system architecture and SSDD. I strive to maximise hardware capabilities to solve complex problems and create scalable solutions.
+
+In my spare time, I actively contribute to Open Source projects and develop personal projects, which allows me to keep exploring new technologies.
 
 ## My Skills 💻
 # Skills
